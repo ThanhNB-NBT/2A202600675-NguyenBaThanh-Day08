@@ -1,17 +1,82 @@
 [
   {
-    "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "question": "Nghị định 28/2026/NĐ-CP ban hành bao nhiêu danh mục chất ma túy và tiền chất?",
+    "expected_answer": "Nghị định 28/2026/NĐ-CP ban hành 4 danh mục: Danh mục I (các chất ma túy tuyệt đối cấm sử dụng trong y học và đời sống xã hội), Danh mục II và Danh mục III (các chất ma túy được sử dụng hạn chế), và Danh mục IV (các tiền chất).",
+    "expected_context": "Nghị định 28/2026/NĐ-CP, Điều 1"
   },
   {
-    "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "question": "Danh mục I trong Nghị định 28/2026/NĐ-CP là nhóm chất ma túy như thế nào?",
+    "expected_answer": "Danh mục I là các chất ma túy tuyệt đối cấm sử dụng trong y học và đời sống xã hội; việc sử dụng các chất này trong nghiên cứu, kiểm nghiệm, giám định, vì mục đích quốc phòng, an ninh phải theo quy định đặc biệt của cơ quan có thẩm quyền.",
+    "expected_context": "Nghị định 28/2026/NĐ-CP, Danh mục I"
   },
   {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Danh mục II của Nghị định 28/2026/NĐ-CP quy định về nhóm chất nào?",
+    "expected_answer": "Danh mục II gồm các chất ma túy được sử dụng hạn chế trong nghiên cứu, kiểm nghiệm, giám định, vì mục đích quốc phòng, an ninh hoặc trong lĩnh vực y tế theo quy định của cơ quan có thẩm quyền.",
+    "expected_context": "Nghị định 28/2026/NĐ-CP, Danh mục II"
+  },
+  {
+    "question": "Tội tàng trữ trái phép chất ma túy được quy định tại điều nào của Bộ luật Hình sự?",
+    "expected_answer": "Tội tàng trữ trái phép chất ma túy được quy định tại Điều 249 Bộ luật Hình sự, áp dụng cho người tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép.",
+    "expected_context": "Luật sửa đổi Bộ luật Hình sự 2017, Điều 249"
+  },
+  {
+    "question": "Khung hình phạt thấp nhất đối với tội tàng trữ trái phép chất ma túy là bao nhiêu?",
+    "expected_answer": "Người tàng trữ trái phép chất ma túy (không nhằm mục đích mua bán, vận chuyển, sản xuất) thuộc các trường hợp cơ bản thì bị phạt tù từ 01 năm đến 05 năm.",
+    "expected_context": "Luật sửa đổi Bộ luật Hình sự 2017, khoản 1 Điều 249"
+  },
+  {
+    "question": "Thông tư liên tịch 17/2015 quy định về vấn đề gì?",
+    "expected_answer": "Thông tư liên tịch 17/2015/TTLT-BYT-BLĐTBXH-BCA quy định quy trình, thẩm quyền xác định tình trạng nghiện ma túy.",
+    "expected_context": "Thông tư liên tịch 17/2015/TTLT-BYT-BLĐTBXH-BCA"
+  },
+  {
+    "question": "Nghị định 105/2021/NĐ-CP hướng dẫn thi hành luật nào?",
+    "expected_answer": "Nghị định 105/2021/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP, Điều 1"
+  },
+  {
+    "question": "Người quá cảnh mang theo thuốc gây nghiện để điều trị bệnh cho bản thân có bị coi là mang hàng quá cảnh không?",
+    "expected_answer": "Không. Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất vì mục đích điều trị bệnh cho bản thân người quá cảnh không bị coi là mang hàng quá cảnh, nhưng người đó phải khai báo và xuất trình tài liệu liên quan.",
+    "expected_context": "Nghị định 105/2021/NĐ-CP"
+  },
+  {
+    "question": "Hai vụ án nghệ sĩ điển hình liên quan ma túy được Viện kiểm sát nhân dân TP.HCM nêu là ai?",
+    "expected_answer": "Hai vụ án điển hình được Viện kiểm sát nhân dân TP.HCM nêu là vụ người mẫu An Tây (Andrea Aybar) cùng đồng phạm và vụ ca sĩ Chi Dân (Nguyễn Trung Hiếu) cùng đồng phạm tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "Tuổi Trẻ, 09/12/2025 - Viện kiểm sát TP.HCM"
+  },
+  {
+    "question": "Người mẫu An Tây có tên thật và tên gọi khác là gì?",
+    "expected_answer": "Người mẫu An Tây có tên đầy đủ là Andrea Aybar Carmona, tên Việt là Nguyễn Thị An, mang quốc tịch Tây Ban Nha.",
+    "expected_context": "VietnamNet / Tuổi Trẻ 2025-2026 - An Tây (Andrea Aybar)"
+  },
+  {
+    "question": "Người mẫu An Tây bị truy tố về những tội danh nào?",
+    "expected_answer": "An Tây (Andrea Aybar) bị truy tố về hai tội: tàng trữ trái phép chất ma túy và tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "VietnamNet, 2026 - An Tây (Andrea Aybar)"
+  },
+  {
+    "question": "Diễn viên Lệ Hằng nổi tiếng qua bộ phim nào và bị khởi tố về tội gì?",
+    "expected_answer": "Diễn viên Lệ Hằng nổi tiếng qua phim truyền hình 'Xin hãy tin em' và bị khởi tố về tội mua bán trái phép chất ma túy.",
+    "expected_context": "VietnamNet, 2026 - 3 nữ nghệ sĩ liên quan ma túy"
+  },
+  {
+    "question": "Diễn viên Lệ Hằng đã tuyên bố giải nghệ vào năm nào?",
+    "expected_answer": "Diễn viên Lệ Hằng đã tuyên bố giải nghệ từ năm 2012 và gần như biến mất khỏi showbiz.",
+    "expected_context": "VietnamNet, 2026 - 3 nữ nghệ sĩ liên quan ma túy"
+  },
+  {
+    "question": "Ca sĩ Chi Dân có tên thật là gì?",
+    "expected_answer": "Ca sĩ Chi Dân có tên thật là Nguyễn Trung Hiếu.",
+    "expected_context": "Tuổi Trẻ / VietnamNet 2025-2026 - Chi Dân"
+  },
+  {
+    "question": "Diễn viên hài Hữu Tín bị tòa tuyên phạt bao nhiêu năm tù vì ma túy?",
+    "expected_answer": "Diễn viên hài Hữu Tín bị TAND Quận 8, TPHCM tuyên phạt 7 năm 6 tháng tù về tội tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "VietnamNet, 2026 - sao Việt dính chất cấm"
+  },
+  {
+    "question": "Tình hình tội phạm về ma túy ở TP.HCM năm 2025 thay đổi như thế nào so với cùng kỳ?",
+    "expected_answer": "Trong năm 2025, số vụ tội phạm về ma túy bị khởi tố mới tại TP.HCM tăng mạnh, tăng 532 vụ với 4.896 bị can so với cùng kỳ.",
+    "expected_context": "Tuổi Trẻ, 09/12/2025 - Viện kiểm sát TP.HCM"
   }
 ]

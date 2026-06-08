@@ -1,0 +1,11 @@
+# Đòn trừng phạt mất bay sự nghiệp của nghệ sĩ dính vào ma túy
+
+**Source:** https://dantri.com.vn/giai-tri/don-trung-phat-mat-bay-su-nghiep-cua-anh-de-my-nhan-dinh-vao-ma-tuy-20241111112123113.htm
+**Crawled:** 2026-06-08T16:44:35.116194
+**Mode:** offline_seed
+
+---
+
+# Đòn trừng phạt mất bay sự nghiệp của nghệ sĩ dính vào ma túy
+
+Dân Trí phân tích nhiều trường hợp nghệ sĩ trong và ngoài nước bị ảnh hưởng nghiêm trọng sau bê bối ma túy, từ mất hình ảnh, bị hạn chế hoạt động cho đến khó quay lại thị trường giải trí. Bài viết bổ sung góc nhìn về hậu quả nghề nghiệp, phản ứng của công chúng và lý do người nổi tiếng cần tuân thủ chuẩn mực pháp luật, đạo đức khi hoạt động trong môi trường có sức ảnh hưởng lớn.

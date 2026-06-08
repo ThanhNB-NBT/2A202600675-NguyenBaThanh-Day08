@@ -1,0 +1,11 @@
+# Người mẫu Nhikolai Đinh bị bắt trong chuyên án ma túy ở khu Mả Lạng
+
+**Source:** https://tuoitre.vn/nguoi-mau-nhikolai-dinh-bi-bat-trong-chuyen-an-ma-tuy-o-khu-ma-lang-quan-1-20240625230004986.htm
+**Crawled:** 2026-06-08T16:44:35.111713
+**Mode:** offline_seed
+
+---
+
+# Người mẫu Nhikolai Đinh bị bắt trong chuyên án ma túy ở khu Mả Lạng
+
+Theo Tuổi Trẻ Online, Công an quận 1, TP.HCM triệt phá chuyên án ma túy tại khu Mả Lạng và khởi tố nhiều bị can. Trong nhóm bị điều tra về hành vi tàng trữ trái phép chất ma túy có Đinh Nhi Ko Lai, nghệ danh Nhikolai Đinh, người từng hoạt động người mẫu và xuất hiện trong MV ca nhạc. Bài viết cung cấp ngữ cảnh báo chí cho các truy vấn về nghệ sĩ, người mẫu, tàng trữ trái phép chất ma túy và chuyên án ma túy tại TP.HCM.
